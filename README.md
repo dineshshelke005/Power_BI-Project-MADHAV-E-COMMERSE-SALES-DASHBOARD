@@ -17,4 +17,4 @@ Provides an overview of the revenue and sales growth for the current year.
 Displays the top products sold by Madhav E-commerce in the current year.
 
 ## Customer Segmentation: 
-Segments the customers based on various attributes such as age, gender, and location.
+Segments the customers based on various attributes such as Sales and location.
